@@ -1,0 +1,9 @@
+pri/
+__pycache__/
+*.pyc
+*.mp4
+*.zip
+*.pkl
+*.csv
+*.h5
+.env
